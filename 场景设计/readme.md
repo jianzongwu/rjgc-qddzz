@@ -33,9 +33,9 @@ main camera，background都运行在canvas下
 
 摇杆组件
 
-![image-20200503214832064](C:\Users\11438\AppData\Roaming\Typora\typora-user-images\image-20200503214832064.png)
+![image-20200503214832064](https://github.com/Haoxuan-Wu/rjgc-qddzz/blob/master/%E5%9C%BA%E6%99%AF%E8%AE%BE%E8%AE%A1/stick1.png)
 
-![image-20200503214901732](C:\Users\11438\AppData\Roaming\Typora\typora-user-images\image-20200503214901732.png)
+![image-20200503214901732](https://github.com/Haoxuan-Wu/rjgc-qddzz/blob/master/%E5%9C%BA%E6%99%AF%E8%AE%BE%E8%AE%A1/stick2.png)
 
 大概是这个意思
 
