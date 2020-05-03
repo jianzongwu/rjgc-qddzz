@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "04f92a3f-21cf-4078-8533-be7f913cee93",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 437,
+  "height": 557,
+  "platformSettings": {},
+  "subMetas": {
+    "创建房间_灰度": {
+      "ver": "1.0.4",
+      "uuid": "6c118c50-e465-41c9-8581-54f76b9be486",
+      "rawTextureUuid": "04f92a3f-21cf-4078-8533-be7f913cee93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 437,
+      "height": 557,
+      "rawWidth": 437,
+      "rawHeight": 557,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

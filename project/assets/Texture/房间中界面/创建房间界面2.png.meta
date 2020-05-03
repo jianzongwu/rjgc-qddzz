@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "92e4effb-ae8c-4455-9183-f565c4413609",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1920,
+  "height": 1080,
+  "platformSettings": {},
+  "subMetas": {
+    "创建房间界面2": {
+      "ver": "1.0.4",
+      "uuid": "6442665a-eb70-42bc-a3e7-3847f61f99c2",
+      "rawTextureUuid": "92e4effb-ae8c-4455-9183-f565c4413609",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

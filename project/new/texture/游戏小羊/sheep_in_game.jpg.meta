@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f850cf56-250d-4d08-9b24-3c5cc96ae9ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1200,
+  "height": 1200,
+  "platformSettings": {},
+  "subMetas": {
+    "sheep_in_game": {
+      "ver": "1.0.4",
+      "uuid": "c9b44fa9-90b2-4c14-b318-58a7fb4bcc72",
+      "rawTextureUuid": "f850cf56-250d-4d08-9b24-3c5cc96ae9ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1200,
+      "height": 1200,
+      "rawWidth": 1200,
+      "rawHeight": 1200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

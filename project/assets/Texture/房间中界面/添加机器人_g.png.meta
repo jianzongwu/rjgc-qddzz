@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5e360d7c-4aaa-4293-8b4a-4210aa8f9465",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 391,
+  "height": 141,
+  "platformSettings": {},
+  "subMetas": {
+    "添加机器人_g": {
+      "ver": "1.0.4",
+      "uuid": "ffb0d236-f049-4008-a110-8bfe32c3dcc7",
+      "rawTextureUuid": "5e360d7c-4aaa-4293-8b4a-4210aa8f9465",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 391,
+      "height": 141,
+      "rawWidth": 391,
+      "rawHeight": 141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
